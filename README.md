@@ -37,7 +37,7 @@ The Contact Form Management System is a web application built using React.js and
 ### Backend Setup
 
 1. Clone the repository to your local machine.
-2. Navigate to the `contact-form-management-server` directory.
+2. Navigate to the `backend` directory.
 3. Run `npm install` to install dependencies.
 4. Run `npm run start` to start the backend server on port 5165.
 5. Access the backend at http://localhost:5165/. You should see "Hello, World!".
@@ -45,7 +45,7 @@ The Contact Form Management System is a web application built using React.js and
 ### Frontend Setup
 
 1. Clone the repository to your local machine.
-2. Navigate to the `contact-form-management-system` directory.
+2. Navigate to the `frontend` directory.
 3. Run `npm install` to install dependencies.
 4. Run `npm start` to start the development server.
 5. Access the frontend at http://localhost:3000/.
