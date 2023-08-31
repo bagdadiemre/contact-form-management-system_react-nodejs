@@ -1,4 +1,4 @@
-![image](https://github.com/bagdadiemre/contact-form-management-system_react-nodejs/assets/54630643/75e0573f-779e-4755-9a71-b23f041d2814)# Contact Form Management System
+# Contact Form Management System
 
 The Contact Form Management System is a web application built using React.js and Node.js that enables users to submit contact forms, manage messages, and perform administrative tasks. This project focuses on various aspects of web development, including authentication, authorization, validation, backend-frontend integration, user feedback, and data visualization through charts.
 
@@ -65,31 +65,31 @@ The Contact Form Management System is a web application built using React.js and
 
 ## Screenshots
 
-# localhost:3000/contact 
+### localhost:3000/contact 
 ![image](https://github.com/bagdadiemre/contact-form-management-system_react-nodejs/assets/54630643/29c14dbd-d112-421d-8120-87920039f4b3)
 
-# localhost:3000/login (admin admin - reader1 reader1pass)
+### localhost:3000/login (admin admin - reader1 reader1pass)
 ![image](https://github.com/bagdadiemre/contact-form-management-system_react-nodejs/assets/54630643/fd1eb65f-11e4-4909-a4d5-fec49b1e30fe)
 
-# localhost:3000/messages
+### localhost:3000/messages
 ![image](https://github.com/bagdadiemre/contact-form-management-system_react-nodejs/assets/54630643/d2f92c56-af51-4a2b-8fef-4c66ded1571d)
 
-# localhost:3000/messages/1
+### localhost:3000/messages/1
 ![image](https://github.com/bagdadiemre/contact-form-management-system_react-nodejs/assets/54630643/e00002b8-730d-40d8-8630-279af60977f2)
 
-# localhost:3000/messagesPaginated
+### localhost:3000/messagesPaginated
 ![image](https://github.com/bagdadiemre/contact-form-management-system_react-nodejs/assets/54630643/eb14f774-f5e8-471f-b00e-d128e1e76780)
 
-# localhost:3000/users
+### localhost:3000/users
 ![image](https://github.com/bagdadiemre/contact-form-management-system_react-nodejs/assets/54630643/d45d1ad2-e035-4f67-9fd8-6694d064d510)
 
-# localhost:3000/users/1
+### localhost:3000/users/1
 ![image](https://github.com/bagdadiemre/contact-form-management-system_react-nodejs/assets/54630643/f5894d7e-5428-463a-8ac6-0a5d70b0feb7)
 
-# localhost:3000/reports
+### localhost:3000/reports
 ![image](https://github.com/bagdadiemre/contact-form-management-system_react-nodejs/assets/54630643/10d7a7a5-fee7-4a27-bff1-6e245dd02d02)
 
-# Dropdown 
+### Dropdown 
 ![image](https://github.com/bagdadiemre/contact-form-management-system_react-nodejs/assets/54630643/b3932e14-e1ce-4715-9baa-0d957818e73b)
 
 
