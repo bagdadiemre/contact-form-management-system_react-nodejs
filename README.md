@@ -77,7 +77,7 @@ The Contact Form Management System is a web application built using React.js and
 ### localhost:3000/messages/1
 ![image](https://github.com/bagdadiemre/contact-form-management-system_react-nodejs/assets/54630643/e00002b8-730d-40d8-8630-279af60977f2)
 
-### localhost:3000/messagesPaginated
+### localhost:3000/messagesPaginated also can be seen infinite scroll via IS 
 ![image](https://github.com/bagdadiemre/contact-form-management-system_react-nodejs/assets/54630643/eb14f774-f5e8-471f-b00e-d128e1e76780)
 
 ### localhost:3000/users
