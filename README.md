@@ -16,7 +16,7 @@ The Contact Form Management System is a web application built using React.js and
 
 ## Features
 
-- User authentication and authorization based on roles.
+- User authentication and authorization based on roles. (admin full permission on app - reader only read-only messages) 
 - Login page for users with username and password.
 - User profile dropdown menu with logout functionality.
 - Responsive design for various screen sizes.
